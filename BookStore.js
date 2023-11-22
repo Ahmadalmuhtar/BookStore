@@ -35,5 +35,10 @@ const displayBooks = () => {
 // Example usage
 addBook(1, 'The Catcher in the Rye', 'J.D. Salinger', 15, 20);
 addBook(2, 'To Kill a Mockingbird', 'Harper Lee', 12, 15);
+addBook(1, 'Start with why', 'Simon Sinek', 80.0, 13)
+addBook(2, 'But how do it know', 'J. Clark Scott', 59.9, 22)
+addBook(3, 'Clean Code', 'Robert Cecil Martin', 50.0, 5)
+addBook(4, 'Zero to One', 'Peter Thiel', 45.0, 12)
+addBook(5, 'You don\'t know JS', 'Kyle Simpson', 39.9, 9)
 
 displayBooks();
